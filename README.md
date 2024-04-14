@@ -1,4 +1,6 @@
+<!--
 ### Hi there 👋
+-->
 
 <!--
 **TheGeminiEra/TheGeminiEra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👋 Hi, I’m Lai Truong
+- 👀 I’m interested in Salesforce LWC, Aura, Visual Force, ReactJs, Mulesoft, Python
+- 🌱 I’m currently working on Salesforce Projects
+- 📫 How to reach me ... https://www.linkedin.com/in/truonglai/
