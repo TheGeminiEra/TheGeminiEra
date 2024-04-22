@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I’m Lai Truong
-- 👀 I’m interested in Salesforce LWC, Aura, Visual Force, ReactJs, Mulesoft, Python
+- 👀 I’m interested in Salesforce Apex, LWC, Aura, Visual Force, ReactJs, Mulesoft, Python
 - 🌱 I’m currently working on Salesforce Projects
 - 📫 How to reach me ... [Linkedin](https://www.linkedin.com/in/truonglai/) | [Trailblazer](https://www.salesforce.com/trailblazer/truonglaisfdev)
